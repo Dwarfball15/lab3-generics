@@ -1,3 +1,12 @@
+/*
+Duy Nguyen n186@umbc.edu
+Lab 3 Generics:
+given code, make the array to be generic for us with any array
+use for custom class
+ */
+
+
+
 public class Main {
 
 
