@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Int Array Sort: ");
-        int[] arr1 = {9, 14, 3, 2, 43, 11, 58, 22};
+        Integer[] arr1 = {9, 14, 3, 2, 43, 11, 58, 22};
 
         System.out.println("Before Sort");
 
@@ -52,6 +52,4 @@ public class Main {
     }
 
 
-
-    }
 }
