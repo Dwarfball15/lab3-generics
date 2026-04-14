@@ -5,8 +5,6 @@ given code, make the array to be generic for us with any array
 use for custom class
  */
 
-
-
 public class Main {
 
 
@@ -31,16 +29,14 @@ public class Main {
         System.out.println("Before Sort");
 
         for (Integer i : arr1) System.out.println(i + " ");
-        System.out.println();
 
-        System.out.println();
 
         mySort(arr1);
 
         System.out.println("After Sort");
 
         for (Integer i : arr1) System.out.println(i + " ");
-        System.out.println();
+
 
         Meat[] meats = {
                 new Meat("Steak", 800, "Beef", 52),
